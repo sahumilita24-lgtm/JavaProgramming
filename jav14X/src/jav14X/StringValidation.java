@@ -1,6 +1,7 @@
 package jav14X;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class StringValidation {
 
@@ -15,6 +16,15 @@ public class StringValidation {
 		{
 			System.out.println(a + " :here is the mark");
 		}
+		int a, b;
+		
+		Scanner scanner = new Scanner(System.in);
+		System.out.print("Enter number one: ");
+		
+		a= scanner.nextInt();
+		System.out.print("Enter number Two: ");
+		b= scanner.nextInt();
+		
 
 	}
 
