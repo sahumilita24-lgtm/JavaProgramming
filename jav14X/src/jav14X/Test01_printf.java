@@ -20,7 +20,7 @@ public class Test01_printf {
 	public static void practice()
 	{
 		int a=10;
-		System.out.printf("Hello World %s", "Milita");
+		System.out.printf("Hello World %s", "Milita S");
 		System.out.println();
 
 		
