@@ -1,4 +1,4 @@
-package Ex_TypeCasting;
+package Ex05_TypeCasting;
 
 public class Lab03_TypeCasting_Narrowing {
     public static void main(String[] args) {
