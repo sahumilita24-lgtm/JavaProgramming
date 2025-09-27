@@ -1,4 +1,4 @@
-package Ex_Operators;
+package ex04_Operators;
 
 public class Logical_Operators {
 

@@ -1,4 +1,4 @@
-package jav14X;
+package ex_01_02_Java_Basics;
 
 public class JavaBasicsDay1 {
 
@@ -8,8 +8,10 @@ public class JavaBasicsDay1 {
 		int a = 20;
         int b = 10;
         System.out.println(a/b);
-
-
+        int n = a=b=11;
+        System.out.println(n);
+        
+     
 	}
 	
 	public static void printf_test()

@@ -1,4 +1,4 @@
-package jav14X;
+package ex_01_02_Java_Basics;
 
 public class Test01_printf {
 
