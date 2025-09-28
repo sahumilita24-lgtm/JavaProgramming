@@ -1,4 +1,4 @@
-package Ex07_increament_Decreament;
+package ex07_increament_Decreament;
 
 public class Lab09_Exp2_increament {
     public static void main(String[] args) {

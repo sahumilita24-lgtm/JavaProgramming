@@ -1,4 +1,4 @@
-package ex_01_02_Java_Basics;
+package ex01_02_Java_Basics;
 
 import java.util.ArrayList;
 import java.util.Scanner;

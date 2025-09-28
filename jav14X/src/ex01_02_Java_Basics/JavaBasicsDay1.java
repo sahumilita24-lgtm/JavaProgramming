@@ -1,4 +1,4 @@
-package ex_01_02_Java_Basics;
+package ex01_02_Java_Basics;
 
 public class JavaBasicsDay1 {
 
