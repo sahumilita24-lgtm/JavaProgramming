@@ -1,6 +1,6 @@
-package ex_13_Functions;
+package ex13_Functions;
 
-public class Lab130_Simple_Method {
+public class Lab03_Simple_Method {
     public static void main(String[] args) {
         non_return_type_function();
 

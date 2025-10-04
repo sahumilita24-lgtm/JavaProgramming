@@ -1,6 +1,6 @@
-package ex_13_Functions;
+package ex13_Functions;
 
-public class Lab133_InterviewQ {
+public class Lab06_InterviewQ {
     public static void main(String[] args) {
 
     }

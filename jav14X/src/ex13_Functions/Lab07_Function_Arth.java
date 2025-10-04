@@ -1,8 +1,8 @@
-package ex_13_Functions;
+package ex13_Functions;
 
 import java.util.Scanner;
 
-public class Lab134_Function_Arth {
+public class Lab07_Function_Arth {
     public static void main(String[] args) {
         // Create a Function of Sub, Sum, Mul and Div
         // with parameter, a, b (take the parameter from the User)
