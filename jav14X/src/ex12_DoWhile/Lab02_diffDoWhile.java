@@ -1,4 +1,4 @@
-package ex10_DoWhile;
+package ex12_DoWhile;
 
 public class Lab02_diffDoWhile {
 

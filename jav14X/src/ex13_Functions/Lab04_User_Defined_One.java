@@ -20,6 +20,7 @@ public class Lab04_User_Defined_One {
         System.out.println(result);
         System.out.println(result2);
         System.out.println(result3);
+        scanner.close();
     }
 
     static int sum_of_two_number(int a,int b){
